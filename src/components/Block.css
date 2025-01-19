@@ -1,0 +1,10 @@
+.block {
+  width: 100px;
+  height: 100px;
+  transform: rotate(45deg); /* Make it stand on its edge */
+  display: inline-block;
+  position: relative;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2); /* Add depth */
+  cursor: pointer; /* Make it clear it's clickable */
+  transition: background-color 0.3s ease; /* Smooth color transition */
+}
