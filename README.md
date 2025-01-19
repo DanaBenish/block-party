@@ -1,8 +1,7 @@
-# React + Vite
+# Offputting Heartshape on Roku Tv Autoplay video
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A few days ago I wasn't interacting with my Roku TV but it was turned on, so eventually the autoplay homescreen video started playing in the backround. I looked at it and i saw this very off putting heartshape that was obiosly made out of squers. 
 
-Currently, two official plugins are available:
+![Screenshot](assets/screenshot.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I wanted to see how hard it is to make an appealing heart shape using a squer pattern. Turns out the best heart i could create wasn't that great either. 
